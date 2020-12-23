@@ -5,7 +5,8 @@
 }
 
 body {
-	background: url(./nativity-glass-full-still-4k.jpg) center no-repeat;
+	background: url(https://res.cloudinary.com/dl7zkbazs/image/upload/v1608735284/nativity-glass-full-still-4k_odvyya.jpg)
+		center no-repeat;
 	background-size: cover;
 }
 #video {
@@ -16,5 +17,5 @@ body {
 }
 
 #resi-video-player {
-	width: 40vw;
+	width: 75vw;
 }
